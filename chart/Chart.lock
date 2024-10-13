@@ -1,0 +1,33 @@
+dependencies:
+- name: web-application
+  repository: https://int.repositories.cloud.sap/artifactory/virtual-unified-runtime-helm-dmz
+  version: 1.17.2
+- name: web-application
+  repository: https://int.repositories.cloud.sap/artifactory/virtual-unified-runtime-helm-dmz
+  version: 1.17.2
+- name: service-instance
+  repository: https://int.repositories.cloud.sap/artifactory/virtual-unified-runtime-helm-dmz
+  version: 1.5.2
+- name: content-deployment
+  repository: https://int.repositories.cloud.sap/artifactory/virtual-unified-runtime-helm-dmz
+  version: 1.6.3
+- name: service-instance
+  repository: https://int.repositories.cloud.sap/artifactory/virtual-unified-runtime-helm-dmz
+  version: 1.5.2
+- name: service-instance
+  repository: https://int.repositories.cloud.sap/artifactory/virtual-unified-runtime-helm-dmz
+  version: 1.5.2
+- name: service-instance
+  repository: https://int.repositories.cloud.sap/artifactory/virtual-unified-runtime-helm-dmz
+  version: 1.5.2
+- name: content-deployment
+  repository: https://int.repositories.cloud.sap/artifactory/virtual-unified-runtime-helm-dmz
+  version: 1.6.3
+- name: service-instance
+  repository: https://int.repositories.cloud.sap/artifactory/virtual-unified-runtime-helm-dmz
+  version: 1.5.2
+- name: content-deployment
+  repository: https://int.repositories.cloud.sap/artifactory/virtual-unified-runtime-helm-dmz
+  version: 1.6.3
+digest: sha256:6570aeea00c42ed79e70323fc400a7a5ec8ac87d8c161d2f1702a9bcd9f38523
+generated: "2024-10-12T16:56:40.0444266+05:30"
